@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Abhishek Kumar Singh 👋</h1>
 
-<!--
-**Abhishek00024/Abhishek00024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Based in Dehri-on-sone, Bihar <br>
+🎓 B.Tech in CSE Student
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href=["https://linkedin.com/"](https://www.linkedin.com/in/abhishek-singh-a3623b363/?skipRedirect=true)>LinkedIn</a> |
+<a href=>LinkedIn</a> |
+<a href="mailto:yourmail@gmail.com">Email</a> |
+<a href=["https://instagram.com/"](https://www.instagram.com/_abhishek_rajput.__/)>Instagram</a>
+</p>
+
+---
+
+### 🚀 About Me
+- 💻 I am a passionate Computer Science student  
+- 🌐 Working on Full Stack Web Development & ML Projects  
+- 📚 Currently learning Advanced Data Structures & Algorithms  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+C | C++ | Java | Python | PHP  
+
+**Frontend & Backend:**  
+HTML | CSS | JavaScript | React | Node.js | Express.js  
+
+**Machine Learning:**  
+NumPy | Pandas | Matplotlib | Scikit-learn  
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Abhishek00024E&show_icons=true)
+
+---
+
+### 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek00024)
