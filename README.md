@@ -58,7 +58,7 @@ I am a passionate Computer Science student focusing on building scalable web app
 
 <p align="center">
   <a href="https://github.com/Abhishek00024">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mangal1910&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Abhishek00024's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek00024&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Abhishek00024's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Abhishek00024&theme=radical&hide_border=true&cache_seconds=86400" alt="Abhishek00024's GitHub Streak" width="49%" />
 </p>
@@ -76,8 +76,8 @@ I am a passionate Computer Science student focusing on building scalable web app
 
 I'm always open to collaborating on interesting projects, discussing tech, or just saying hello!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangal1910)
-[![Gmail](https://img.shields.io/badge/Drop_me_a_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangal192004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abhishek00024)
+[![Gmail](https://img.shields.io/badge/Drop_me_a_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksingh80024@gmail.com)
 
 <br>
 
