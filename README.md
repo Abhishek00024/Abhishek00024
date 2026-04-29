@@ -76,7 +76,7 @@ I am a passionate Computer Science student focusing on building scalable web app
 
 I'm always open to collaborating on interesting projects, discussing tech, or just saying hello!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abhishek00024)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-a3623b363/)
 [![Gmail](https://img.shields.io/badge/Drop_me_a_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksingh80024@gmail.com)
 
 <br>
@@ -85,7 +85,7 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek00024&label=Profile%20views&color=0e75b6&style=flat" alt="mangal1910" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek00024&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek00024" />
 </p>
 Happy Coding!
 
